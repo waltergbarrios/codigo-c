@@ -1,7 +1,3 @@
-/* Programa para sumar dos numeros enteros
-
-*/
-
 #include <stdio.h>
 
 int main(){
